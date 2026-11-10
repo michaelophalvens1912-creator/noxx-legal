@@ -1,0 +1,38 @@
+NOXX — Kingdom of the Deep | legal website package
+Operator: Michaël Ophalvens / MCore Creative
+Location: Ul. Vice Jercica 4, 21212 Kaštel Sućurac, Croatia
+Note: user confirmed an individual developer (not a registered company). City and postcode confirmed by user.
+Contact: mcorecreative@gmail.com
+Prepared: 2026-11-10
+
+FILES
+index.html            Landing page
+terms.html            Draft Terms & Conditions
+privacy.html          Draft Privacy Policy
+delete-account.html   Public deletion request instructions
+styles.css            Shared NOXX-style visual presentation
+
+HOW TO HOST (GitHub Pages)
+1. Create a PUBLIC repository, for example noxx-legal (no account secrets).
+2. Upload ONLY these five website files to its repository root.
+3. Settings > Pages > Deploy from branch > main / (root) > Save.
+4. Once published, check the public Terms, Privacy and Delete Account URLs.
+5. Paste the exact public URLs in Google Play Console, only after checking the legal drafts.
+
+CHECK BEFORE PUBLISHING
+[ ] Correct legal status: individual or registered business; name/address and legally required registration identifiers; any mandatory phone contact.
+[ ] Accurate published pricing, purchase and subscription descriptions.
+[ ] The app really has no cash-out or real-world-money winnings.
+[ ] Verify all Firebase, Google login, analytics, billing, hosting, third parties, retention and transfer practices.
+[ ] Confirm account deletion process works in practice (not just email); legal retention and backup policy.
+[ ] Confirm appropriate age rating, game/gambling policy and odds disclosures for purchased random rewards.
+[ ] Fill Google Play Data safety truthfully based on implementation.
+[ ] Consider Croatian/EU professional legal review before launch.
+[ ] Verify six-language presentation if publishing localized copies.
+
+These pages are DRAFTS, not certified legal advice. Do not publish without review.
+Reference guidance:
+https://support.google.com/googleplay/android-developer/answer/13327111
+https://support.google.com/googleplay/android-developer/answer/18265346
+https://www.gov.hr/en/consumer-rights-in-distance-selling-and-off-premises-contracts/566
+https://inspektorat.gov.hr/o-dravnom-inspektoratu-9/ustrojstvo-77/6-sektor-za-nadzor-trgovine-usluga-i-zastite-potrosaca/1-sluzba-zastite-ekonomskih-interesa-potrosaca/sklapanje-ugovora-na-daljinu-putem-interneta/619
